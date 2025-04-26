@@ -15,7 +15,10 @@ git clone https://github.com/qwq212548/NetWatchdog.git
 cd NetWatchdog
 pip install -r requirements.txt
 
-# 赞助声明
 
-本项目由[VTEXS](https://vtexs.com/)提供算力支持。
+
+
+
+# 赞助声明
+本项目由访问 [VTEXS](https://vtexs.com/)提供算力支持。
 感谢VTEXS对开源社区的支持！
